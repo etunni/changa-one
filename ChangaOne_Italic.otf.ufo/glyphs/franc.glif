@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="1">
+  <advance width="470"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <component  base="F"/>
+    <component  base="croatbar" xOffset="-37" yOffset="-458"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="21" width="-21" />
+      <hstem pos="125" width="57" />
+      <hstem pos="264" width="85" />
+      <hstem pos="535" width="90" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

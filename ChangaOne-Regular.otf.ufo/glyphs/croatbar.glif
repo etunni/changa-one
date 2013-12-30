@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="croatbar" format="1">
+  <advance width="343"/>
+  <outline>
+    <contour>
+      <point x="0" y="539" type="line" name="hr00"/>
+      <point x="343" y="539" type="line"/>
+      <point x="343" y="622" type="line"/>
+      <point x="0" y="622" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="539" width="83" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

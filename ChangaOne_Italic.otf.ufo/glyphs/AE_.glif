@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="748"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="169" y="99" type="line" name="hr01"/>
+      <point x="326" y="99" type="line"/>
+      <point x="330" y="0" type="line" name="hr02"/>
+      <point x="692" y="0" type="line"/>
+      <point x="720" y="160" type="line"/>
+      <point x="519" y="160" type="line"/>
+      <point x="514" y="236" type="line"/>
+      <point x="647" y="236" type="line"/>
+      <point x="673" y="381" type="line"/>
+      <point x="504" y="381" type="line"/>
+      <point x="497" y="465" type="line"/>
+      <point x="701" y="465" type="line"/>
+      <point x="754" y="625" type="line"/>
+      <point x="193" y="625" type="line"/>
+      <point x="-70" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="433" type="line"/>
+      <point x="311" y="433" type="line"/>
+      <point x="311" y="258" type="line" name="hr03"/>
+      <point x="231" y="258" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="99" width="159" />
+      <hstem pos="465" width="160" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="0" width="160" />
+      <hstem pos="236" width="145" />
+      <hstem pos="465" width="160" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="99" width="159" />
+      <hstem pos="465" width="160" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.001" format="1">
+  <advance width="588"/>
+  <outline>
+    <component  base="g"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-173" width="150" />
+      <hstem pos="374" width="133" />
+      <vstem pos="11" width="188" />
+      <vstem pos="299" width="196" />
+      <vstem pos="299" width="209" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

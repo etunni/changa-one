@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="650"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component  base="H"/>
+    <component  base="emdash" xScale="0.8" yScale="0.5" xOffset="-17" yOffset="375"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="494" width="-21" />
+      <hstem pos="551" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
